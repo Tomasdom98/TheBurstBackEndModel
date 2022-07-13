@@ -1,0 +1,1 @@
+The files here were not used directly in the implementation of the project. Just a way to store the main operations we are using across the implementation steps and some previous intermediary tests of functions.
